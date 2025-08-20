@@ -3,9 +3,11 @@ LINK OF PROJECT:- https://181c02a7-70fe-4c73-bab9-add7409d970f-00-2ux5r21vqidz7.
 ## 📁 Project Structure
 chitra-flux/
  ├── index.html
- ├── style.css
- ├── script.js
- └── README.md 
+  ├── style.css
+    ├── script.js
+      └── README.md 
+
+ 
 a# Chitra-Flux: AI Art Design Inspirer
 
 ![Chitra-Flux Logo](https://img.shields.io/badge/Chitra--Flux-AI%20Art%20Inspirer-blueviolet?style=for-the-badge&logo=palette)
