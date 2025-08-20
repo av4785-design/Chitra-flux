@@ -1,6 +1,6 @@
 LINK OF PROJECT:- https://181c02a7-70fe-4c73-bab9-add7409d970f-00-2ux5r21vqidz7.kirk.replit.dev/
 
- 📁 Project Structure
+ #📁 Project Structure
 chitra-flux/
  ├── index.html
   ├── style.css
