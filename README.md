@@ -5,8 +5,7 @@ chitra-flux/
  ├── index.html
  ├── style.css
  ├── script.js
- └── README.md
-
+ └── README.md 
 a# Chitra-Flux: AI Art Design Inspirer
 
 ![Chitra-Flux Logo](https://img.shields.io/badge/Chitra--Flux-AI%20Art%20Inspirer-blueviolet?style=for-the-badge&logo=palette)
